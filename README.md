@@ -2,7 +2,7 @@
 
 
 
-<img src="https://im.ezgif.com/tmp/ezgif-1-ba42a10e36.gif" alt="My Project GIF" width="500" height="600">
+<img src="https://im.ezgif.com/tmp/ezgif-1-ba42a10e36.gif" alt="My Project GIF" width="600" height="320">
 
 That's collection for PokeAPI API in POSTMAN, that can
 
