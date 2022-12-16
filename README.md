@@ -13,4 +13,4 @@ You can download Postman using [this link](https://www.postman.com/downloads/). 
 
 Then you need to import collection from this repository into Postman. Please clone the repo, select Import in your Postman's workspace and choose collection files. You're all set!
 
-
+<img src="https://im.ezgif.com/tmp/ezgif-1-a706b59584.gif">
